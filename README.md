@@ -1,19 +1,38 @@
-João Flávio Diniz
-Profissional de TI com amplo conhecimento em diversas áreas como:
-Cloud (Azure, AWS e GCP) infraestrutura de redes, eletroeletrônica, telecomunicações
-redes de computadores, servidores Windows e Linux, virtualização (VMWare ESXI, proxmox, Hyper-v, VirtualBox e Citrix Zenserver)
-Expandindo horizontes para desenvolvimento de sistemas com foco e WEB front-end e back-end
-<!--
-**JoaoFlavioDiniz/JoaoFlavioDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o João Flávio Diniz! 👋
 
-Here are some ideas to get you started:
+### 👨‍🏫 Instrutor de TI | Cloud | Full Stack Developer in Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Profissional de TI com sólida trajetória em infraestrutura crítica e telecomunicações. Atualmente, foco em unir meu "know-how" de hardware e redes à agilidade do desenvolvimento de sistemas modernos.
+
+---
+
+### 🌐 Cloud & Infraestrutura (Expertise)
+
+- **Cloud Computing:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="aws logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="gcp logo"  />
+
+- **Sistemas & Virtualização:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35" alt="windows logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" height="35" alt="virtualbox logo"  />
+  *(VMWare ESXi, Proxmox, Hyper-V, Citrix ZenServer)*
+
+- **Networking:** Redes de Computadores, Telecomunicações, Fibra Óptica, Eletroeletrônica e Cabeamento Estruturado.
+
+---
+
+### 🚀 Desenvolvimento Full Stack (Focus)
+
+Expandindo horizontes no desenvolvimento Web com foco em criar aplicações robustas e escaláveis:
+
+- **Stack:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+
+---
+
+### 📈 Conecte-se comigo
+
+- 🔭 **Atualmente:** Instrutor de Formação Profissional em TI.
+- 🌱 **Evoluindo em:** Backend com Node.js e arquitetura de sistemas.
+- 💬 **Expertise:** Cloud, Redes, Virtualização e Telecom.
+- 📫 **LinkedIn:** [Insira seu link aqui]
+
+---
+
+### 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
