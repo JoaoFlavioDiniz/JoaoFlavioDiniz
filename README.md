@@ -2,6 +2,7 @@ João Flávio Diniz
 Profissional de TI com amplo conhecimento em diversas áreas como:
 Cloud (Azure, AWS e GCP) infraestrutura de redes, eletroeletrônica, telecomunicações
 redes de computadores, servidores Windows e Linux, virtualização (VMWare ESXI, proxmox, Hyper-v, VirtualBox e Citrix Zenserver)
+Expandindo horizontes para desenvolvimento de sistemas com foco e WEB front-end e back-end
 <!--
 **JoaoFlavioDiniz/JoaoFlavioDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
