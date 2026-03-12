@@ -3,9 +3,7 @@
 ### 👨‍🏫 Instrutor de TI | Cloud | Full Stack Developer in Progress
 
 Profissional de TI com sólida trajetória em infraestrutura crítica e telecomunicações. Atualmente, foco em unir meu "know-how" de hardware e redes à agilidade do desenvolvimento de sistemas modernos.
-
 ---
-
 ### 🌐 Cloud & Infraestrutura (Expertise)
 
 - **Cloud Computing:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="aws logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="gcp logo"  />
@@ -14,9 +12,7 @@ Profissional de TI com sólida trajetória em infraestrutura crítica e telecomu
   *(VMWare ESXi, Proxmox, Hyper-V, Citrix ZenServer)*
 
 - **Networking:** Redes de Computadores, Telecomunicações, servidores, Eletroeletrônica e Cabeamento Estruturado.
-
 ---
-
 ### 🚀 Desenvolvimento Full Stack (Focus)
 
 Expandindo horizontes no desenvolvimento Web com foco em criar aplicações robustas e escaláveis:
@@ -36,7 +32,7 @@ Expandindo horizontes no desenvolvimento Web com foco em criar aplicações robu
 - 🌱 **Evoluindo em:** Backend com Node.js e arquitetura de sistemas.
 - 💬 **Expertise:** Cloud, Redes, Virtualização e Telecom.
 - 📫 **LinkedIn:** www.linkedin.com/in/joãoflaviodiniz
-
+- 📫 **GMAIL:**  dinizjoaoflavio@gmail.com
 ---
 
 ### 📊 My GitHub Stats
